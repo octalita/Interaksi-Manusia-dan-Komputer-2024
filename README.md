@@ -2,12 +2,15 @@
 
        Putar-Putar Private Charters
        Website untuk informasi dan penyewaan/charter helikopter
-Victor bandhaso
-2209106063
+       Victor bandhaso
+       2209106063
+
 
 Showcase di Dribble / Behance
+
 Instruksi Umum
 Pada ujian akhir semester ini, Anda diminta untuk membuat sebuah showcase IMK menggunakan Dribbble atau Behance berdasarkan prototype aplikasi web yang telah Anda buat sebelumnya dengan Figma. Hasil akhir yang harus dikumpulkan adalah tautan ke showcase di Dribbble atau Behance dan sebuah laporan yang menjelaskan proyek Anda.
+
 Panduan Pengerjaan
 1. Membuat Showcase IMK
 a. Buat akun di Dribbble atau Behance jika Anda belum memiliki akun.
